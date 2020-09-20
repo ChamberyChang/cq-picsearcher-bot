@@ -18,7 +18,6 @@
     "autoAddFriend": false,
     "addFriendAnswers": [],
     "autoAddGroup": false,
-    "useGroupReply": true,
     "useThumbnail": true,
     "saucenaoDefaultDB": "all",
     "saucenaoLowAcc": 60,
